@@ -1,1 +1,0 @@
-# TP2-Kubernetes-Ingress
